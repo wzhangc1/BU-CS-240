@@ -1,0 +1,5 @@
+man - an interface to the on-line reference manuals
+pwd - print name of current/working directory
+mkdir - make directories
+rmdir - remove empty directories
+ls- list directory contents
